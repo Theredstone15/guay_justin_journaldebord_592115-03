@@ -2,10 +2,12 @@
 ## Présentation des liens
 
 ### Lien 1 
-Expliquer pourquoi vous avez choisi ce lien. En quoi pourrait-il contribuer à votre démarche artistique? Pourquoi vous intéresse-t-il? Écrire 2 à 3 lignes par lien. 
+https://www.valvesoftware.com/fr/
+j'ai choisi ce lien parce que j'ai une grande admiration pour cette compagnie et ce serait un rêve devenu réalité de pouvoir y travailler. Pour le site web en soi, j'aimerais bien savoir comment intégrer des vidéos et animations dans un site web de ma propre création.
 
 ### Lien 2 
-Expliquer pourquoi vous avez choisi ce lien.
+https://theuselessweb.com/
+J'ai choisi ce lien pour son originalité. C'est un site web très simple en soi, mais l'idée derrière celui ci est amusante: en cliquant sur le bouton, il nous envoie sur un site complètement inutile mais qui est généralement intéressant.
 
 ### Lien 3 
 Expliquer pourquoi vous avez choisi ce lien.  
