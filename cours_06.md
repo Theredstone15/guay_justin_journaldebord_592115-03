@@ -7,10 +7,11 @@ Question 2
 Quelles ont été vos inspirations?
 
 Question 3
-
+Quel public visez-vous?
 
 Question 4
-
+Quel effet voulez vous que ca ait sur le public?
 
 Question 5
+Êtes vous satisfaits de votre travail?
 
