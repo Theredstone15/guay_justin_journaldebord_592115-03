@@ -1,7 +1,7 @@
 # Cours 8
 ## Création de palette de couleur
 Joindre la palette de couleur que vous avez sélectionnée pour la présentation 2 dans votre journal de bord.   
-![Palette de couleurs]
+![Palette de couleurs](https://github.com/Theredstone15/guay_justin_journaldebord_592115-03/blob/main/Images/AdobeColor-PortalTheme.jpeg)
 
 ## Choix d'un thème 
 Explorer les thèmes dans l'outil de présentation numérique de votre choix. Choississez 3 thèmes que vous aimez bien et notez les dans votre journal. Vous pouvez aussi insérer des images de ces thèmes. 
